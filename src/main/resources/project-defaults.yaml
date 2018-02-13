@@ -1,0 +1,8 @@
+logger:
+  level: INFO
+
+swarm:
+  #port:
+  #  offset: 10
+  http:
+    port: 8182
